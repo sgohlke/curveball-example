@@ -1,0 +1,19 @@
+{
+  "name": "curveball-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --esModuleInterop index.ts",
+    "start": "npm run build && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@curveball/core": "^0.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.11.1",
+    "typescript": "^3.8.3"
+  }
+}
