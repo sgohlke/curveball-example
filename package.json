@@ -13,7 +13,7 @@
     "@curveball/core": "0.16.3"
   },
   "devDependencies": {
-    "@types/node": "16.9.0",
-    "typescript": "4.4.2"
+    "@types/node": "16.11.6",
+    "typescript": "4.4.4"
   }
 }
