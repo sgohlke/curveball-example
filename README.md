@@ -1,4 +1,6 @@
 # curveball-example
+> **Note**: This is a playground project project and may not use up-to-date depenencies!
+
 Small example app using curveball TS framework
 
 # How to run
